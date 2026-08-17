@@ -40,13 +40,13 @@ Work lives in `practice/basic-io`.
 
 
 
-### Project: `ember-cat`
+### Project: `ember-cat` - implemented
 
-- [ ] `ember-cat file.txt`
-- [ ] Print file contents
-- [ ] Print line numbers
-- [ ] Show useful error if file does not exist
-- [ ] Support files outside current working directory
+- [x] `ember-cat file.txt`
+- [x] Print file contents
+- [x] Print line numbers
+- [x] Show useful error if file does not exist
+- [x] Support files outside current working directory
 
 ---
 
