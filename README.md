@@ -8,7 +8,7 @@ A practice roadmap for building Ember
 | Piece              | Library                                                                                             | Owns                                               |
 | ------------------ | --------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | core               | [Zig Std](https://ziglang.org/documentation/0.16.0/std/)                                            | core editor and render logic                       |
-| Window, input, GPU | [sokol-zig](https://github.com/floooh/sokol-zig) (`sokol.app`, `sokol.gfx`)                         | cross platform GPU drawing, input and window login |
+| Window, input, GPU | [sokol-zig](https://github.com/floooh/sokol-zig) (`sokol.app`, `sokol.gfx`)                         | cross platform GPU drawing, input and window logic |
 | UI layout          | [clay](https://github.com/nicbarker/clay) via [zclay](https://github.com/johan0A/clay-zig-bindings) | UI layout logic                                    |
 
 
