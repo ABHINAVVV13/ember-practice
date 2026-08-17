@@ -28,15 +28,15 @@ Work lives in `practice/basic-io`.
 
 - [x] Get file size - `std.Io.Dir.cwd().statFile().size or cwd.readFileAlloc().len`
 - [x] Get file metadata - `std.Io.Dir.cwd().statFile()`
-- [ ] Create a file
-- [ ] Write to a file
-- [ ] Append to a file
-- [ ] Overwrite a file
-- [ ] Rename a file
-- [ ] Delete a file
-- [ ] Create a directory
-- [ ] List files in a directory
-- [ ] Recursively walk a directory
+- [x] Create a file - `basic-io.helper.createEmptyfile`
+- [x] Write to a file - `basic-io.helper.saveFile`
+- [ ] Append to a file - `Not needed now`
+- [x] Overwrite a file - `basic-io.helper.saveFile`
+- [x] Rename a file 
+- [x] Delete a file
+- [x] Create a directory
+- [x] List files in a directory
+- [x] Recursively walk a directory
 
 
 
