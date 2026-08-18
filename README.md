@@ -58,12 +58,12 @@ Work lives in `practice/basic-io`.
 
 ### Project: `ember-grep`
 
-- [ ] Count lines in a file
-- [ ] Find a substring
-- [ ] Print matching lines
-- [ ] Print matching line numbers
-- [ ] Search case-insensitively
-- [ ] Search multiple files
+- [x] Count lines in a file - use smid later in project
+- [x] Find a substring
+- [x] Print matching lines
+- [x] Print matching line numbers
+- [x] Search case-insensitively
+- [x] Search multiple files
 - [ ] Search an entire directory
 - [ ] Skip binary files
 
